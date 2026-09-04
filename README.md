@@ -15,6 +15,10 @@ Test is a C# WinForms scratch app that opens extra Form1 windows and starts a fi
 
 Open `Test.sln` in Visual Studio 2012 (solution format 12.00). That solution builds only the C# `Test` project. Open `Rotate/Rotate.vbproj` separately in Visual Studio 2008 or later for the VB.NET stub.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.5, .NET Framework 4.0
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Test`. `Test` assembly title/product `Test`, copyright 2013, blank company and description. `Rotate` assembly title/product `Rotate`, company Microsoft, copyright Microsoft 2010 (Visual Studio template defaults). `RotateClass.vb` is present on disk but not listed in `Rotate.vbproj`.
