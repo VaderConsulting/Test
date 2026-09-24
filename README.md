@@ -21,7 +21,7 @@ Open `Test.sln` in Visual Studio 2012 (solution format 12.00). That solution bui
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Test`. `Test` assembly title/product `Test`, copyright 2013, blank company and description. `Rotate` assembly title/product `Rotate`, company Microsoft, copyright Microsoft 2010 (Visual Studio template defaults). `RotateClass.vb` is present on disk but not listed in `Rotate.vbproj`.
+Working copy from my Historical Dev folder `Test`. `Test` assembly title/product `Test`, copyright 2013, blank company and description. `Rotate` assembly title/product `Rotate`, company Microsoft, copyright Microsoft 2010 (Visual Studio template defaults). `RotateClass.vb` is present on disk but not listed in `Rotate.vbproj`.
 
 ## License
 
