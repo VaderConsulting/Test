@@ -25,4 +25,4 @@ Working copy from my Historical Dev folder `Test`. `Test` assembly title/product
 
 ## License
 
-MIT. Copyright (c) 2026 VaderConsulting, for Dave Robinson's code. See `LICENSE`.
+MIT. Copyright (c) 2026 Vader Consulting, for Dave Robinson's code. See `LICENSE`.
